@@ -1,0 +1,118 @@
+
+Hi
+
+I checked urls and git repository from you and implemented some code.
+
+Urls you provided me was very good materials for arbitrage bot.
+
+Oh that's great to hear
+
+But as you know these are only examples and not competive.
+
+Yes
+
+As they wrote in readme file we must update code and prepare something.
+
+Yes
+
+I tested some part and make sure that we can achieve our goal.
+
+Nice
+
+I also have bot code that works well.
+But Before start I have some part make clear.
+
+To achieve our goal we must win in running TX competition.
+
+Agree?
+
+https://bloxroute.com/products/#mempool-data
+
+Can use this for frontrunning protection and transaction speed
+
+Sure. But with only bloxroute it's difficult to win.
+So many bots using bloxroute and some others running powerful full-node.
+
+So we would run full node as well
+
+Shivam D.
+@shiv33221
+So we would run full node as well
+Okay. Very good.
+
+Do you have full node?
+
+Can get from website service
+
+We must test node speed to achieve our goal.
+
+Ok
+
+For initial milestone, I am going to make bot code that works in testnet.
+Do you agree?
+
+Why not in mainnet
+
+Because of competition.
+
+Code is same but if we run it in mainnet, Tx may fail because of speed.
+
+I am sure that you can prepare node in this period.
+
+Better to be on mainnet so we know how to tweak the bot
+
+Can prepare node anytime
+
+Shivam D.
+@shiv33221
+Better to be on mainnet so we know how to… more
+It will be same in mainnet and testnet.
+
+But without successful execution tx how can i approve my code?
+
+You are guessing the tx will fail without trying
+
+I developed so many bots including arb bot, flash bot, fornt-run bot, sniper bot, MEV bot, signal bot and Trading bot.
+
+As you know so many bots are running in mainnet and it's difficult to execute successful tx.
+
+So what good is a bot running on testnet instead of mainnet
+
+I mean wihout node and front-running.
+
+Thats why need to add that
+
+Yes. for next milstione i will add it.
+
+I told you already payment after completion
+
+If your not okay with that
+
+Okay.
+
+Then I will run it in main net.
+
+Ok
+
+But to test it you should give me some eth for deploying contract and test it.
+?
+
+Did you implement flashloan function
+
+sure.
+
+Just a min.
+
+For deployment i can use Remix IDE
+https://remix-project.org
+Remix - Ethereum IDE & community
+
+https://polygonscan.com/tx/0x305d8df6b99125d2e800786bc9b90b2b4379a4240ae5ad70d8bf2a210bbb19b7
+
+Check this tx.
+
+I flashloan 1 usdc from aave and pay back 1.005 usdc.
+
+This is on polygon network i gave ethereum network script
+
+Because of fee I tested it on polygon.

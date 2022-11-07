@@ -1,0 +1,285 @@
+0xdaf68cfa60fe55616954088009541a3f845f6ccd
+
+Client profile: 
+https://www.freelancer.com/u/shiv33221?w=f&ngsw-bypass=
+
+Post:
+Arbitrage scanner defi
+
+Looking to develop scanner to actively looks for arbitrage with price difference and percentage 2 pairs or triangular arbitrage
+
+
+Chat:
+
+Hi wanted to ask do you have experience with flashloan arbitrage bot
+
+Hi
+
+Sorry for the late reply
+
+
+Hi
+
+Wanted to ask do you have experience in solidity
+
+Ok, No problem
+
+I have strong experience in flashloan Arbitrage bot
+
+
+Ok i have a pre built script that want to enhance like adding more defi exchanges and increasing gas fee for faster execution
+
+Can you provide the script?
+
+
+As well as adding more coin pairs
+
+Yes
+
+Ok
+
+I can help you perfectly
+
+https://www.blocknative.com/blog/mev-and-creating-a-basic-arbitrage-bot-on-ethereum-mainnet
+
+Its from blocknative and it uses thier api for the mempool
+
+Ok
+
+No Problem
+
+https://bloxroute.com/products/
+
+I like bloxroute because it has frontrunning protection
+
+Let me see
+
+Very good
+
+I will implement it in a short period
+
+Ok thank you
+
+No problem
+
+Could you please award me this project?
+
+User Avatar
+ChatBot
+Congratulations, your bid has been awarded!
+Click the Accept button below to start working.
+This project has a budget of $500.00 USD and you will be charged a project commission of $50.00 USD on accept.
+Accept
+
+Have awarded
+
+Cool
+
+I will do my best for you
+
+
+Thank you
+
+For the list of exchanges
+
+Hi
+
+are you still there?
+
+1inch, Paraswap, Uniswap V2 and V3, Sushiswap, Curved,Aave V2
+
+Yes
+
+what is your time estimate for this project?
+
+
+3 to 4 days
+
+can you send me your pre built script?
+
+Shivam D.
+@shiv33221
+3 to 4 days
+Ok, I will try
+
+
+https://github.com/paco0x/amm-arbitrageur/blob/master/contracts/FlashBot.sol
+
+good
+
+User Avatar
+ChatBot
+Accepted!
+You're all set to start working
+
+Wonderful thank you
+
+Hi
+
+
+Please create the milestone
+
+Hi create 2 milestone as cc has a limit
+
+what do you mean?
+
+Meaning 220$ milestone 1 and milestone 2 280$
+
+Is that okay
+
+Ok
+
+Thanks
+
+but I want to raise the price for this project
+
+User Avatar
+ChatBot
+Shivam D. created a milestone
+Milestone: 'Initial Milestone'
+Amount: $ 220.00 USD
+
+Kyrylo D.
+@keryaseniordev
+but I want to raise the price for this project
+How much raise ?
+
+whole $800
+
+Hi
+
+are you still there?
+
+Yes ok
+
+Cool
+
+When is expected time of completion
+
+maybe 5 working days
+
+
+Ok
+
+Could you please release first milestone for me?
+
+image.pngimage.png
+
+because of negative balance in my account after accepted
+
+this is Freelancer fee
+
+Hello
+
+Would need to create 100$ milestone
+
+Ok
+
+You can cancel the 220 one i will create new
+
+you can create new one
+
+I will remain it as second milestone
+
+for a second step
+
+Hi
+
+are you still there?
+
+I dont not pay before project is complete
+
+Will end the project now
+
+why?
+
+if you are impossible it's oK
+
+Never mind
+
+I will finish this task asap
+
+Ok
+
+Don't worry
+
+I'm not scammer
+
+Ok
+
+can we discuss more about your project?
+
+are you available for quick call?
+
+So do you want to Scan the price and then display in your site?
+
+in 1inch, Paraswap, Uniswap V2 and V3, Sushiswap, Curved,Aave V2
+
+This is not for website
+
+Its for personal use
+
+I understand
+
+Only need to Scan?
+
+Scan and execute trade
+
+execute trade?
+
+Yes
+
+The is what bot does
+
+I sent you flashbot
+
+I already received
+
+So then why r u asking scan only
+
+Sorry for my misunderstanding
+
+
+Let me know when its done
+
+Ok
+
+If I have any question, I will let you know
+
+is it ok?
+
+Yes
+
+good
+
+Hi
+
+I want to create rest of the milestone for our credit
+
+Can you do this?
+
+
+It seems tour focus on payment instead of the work
+
+Exactly not
+
+Not cool from start i think
+
+Will be ending the project
+
+what do you mean?
+
+I already accepted your project and started
+
+OkOk Don't worry
+
+If I demanded a lot of thinks, I'm sorry
+
+Thanks, have a good day,
+I will let you know after complete
+
+Would need to see some progress tomorrow
+
+And update
+
+ok
